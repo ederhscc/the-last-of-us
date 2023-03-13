@@ -1,0 +1,16 @@
+/* Este arquivo reseta as configurações que vem por padrao no navegador. */
+/* O asterisco aplica a configuração em todo o html. */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Aplica esta configuração a todas as listas. */
+ul {
+	list-style: none;
+}
+/* Aplica esta configuração a todas as âncoras */
+a {
+	text-decoration: none;
+}
